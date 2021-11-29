@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636988503 source:/home/johnnyminho/Documents/Guia2_SO/Ex6/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/wait.h>
+	<string.h>
+
